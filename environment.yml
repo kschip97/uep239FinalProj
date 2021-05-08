@@ -1,0 +1,24 @@
+name: uep239Final
+channels:
+  - conda-forge
+dependencies:
+  - python=3.*
+  - ipython=7.10.*
+  - jupyterlab=3.*
+  - scipy
+  - numpy
+  - pandas
+  - shapely
+  - geopandas
+  - geopy
+  - geojson
+  - bokeh
+  - matplotlib
+  - seaborn
+  - folium
+  - mplleaflet
+  - networkx
+  - osmnx
+  - rasterio
+  - richdem
+  - rasterstats
