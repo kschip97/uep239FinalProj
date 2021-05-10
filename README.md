@@ -109,4 +109,5 @@ I would like to thank Uku-Kaspar Uustalu for putting together the contents of th
 data were pulled from a box directory provided by instructors of this course. Data were pulled from MassDOT, MassGIS, the Census Bureau, National Land Cover Database, and Landsat 8 Collection 2 from the USGS EarthExplorer. 
 
 Data directories can be found in the below link:
+
 https://tufts.app.box.com/v/uep239-final-project-data/folder/136746915101
