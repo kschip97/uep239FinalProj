@@ -69,4 +69,44 @@ This section will go over the various types of data used, their sources, and pre
 
 # Packages Used + Details
 
+### scipy
+
++ used to calculate euclidean distance raster with the function `ndimate.distance_transform_edt`
+
+### numpy
+
++ used to create empty rasters for rescoring, and various raster/matrix operations throughout analysis
+
+### pandas
+
++ used to read in tabular data and merge tabular datasets together
+
+### geopandas
+
++ used to read in shapefiles, attribute join shapefiles with tabular data, plot basic maps with colorbars, and change various geospatial characteristics of data like crs values
+
+### matplotlib
+
++ graphics engine used in the backend for geopandas map plotting and raster plotting.
+
+### rasterio
+
++ used to read in raster data (tree canopy)
+
+### rasterstats
+
++ used for calculating zonal statistics for rescored rasters
+
+### contextily
+
++ used to provide basemaps to final suitability map
+
 # Acknowledgements and resources
+
+I would like to thank Uku-Kaspar Uustalu for putting together the contents of this course and Kyle Monahan for taking the time to guest lecture for multiple classes this semester, and all of the teaching team for putting together a data directory for use in this project. I would also like to thank all of my classmates for their participation on piazza and with various homeworks throughout the course. I wish we could have had a more interactive experience, but in light of the pandemic, that was likely not possible.
+
+#### Data sources:
+data were pulled from a box directory provided by instructors of this course. Data were pulled from MassDOT, MassGIS, the Census Bureau, National Land Cover Database, and Landsat 8 Collection 2 from the USGS EarthExplorer. 
+
+Data directories can be found in the below link:
+https://tufts.app.box.com/v/uep239-final-project-data/folder/136746915101
