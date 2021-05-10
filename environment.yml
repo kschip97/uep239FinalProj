@@ -13,3 +13,4 @@ dependencies:
   - rasterio
   - richdem
   - rasterstats
+  - contextily
