@@ -11,6 +11,5 @@ dependencies:
   - geopandas
   - matplotlib
   - rasterio
-  - richdem
   - rasterstats
   - contextily
