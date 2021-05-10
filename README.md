@@ -36,6 +36,8 @@ The project notebook is simple to run, and doesn't need to be modified beyond cl
 
 This section will go over the various types of data used, their sources, and preprocessing steps. Each data source will be described in a list under the folder that it is contained in
 
+**Note: There are 2 data directories in the github repository. The folder called 'Data' contains all data used directly in the python notebook analysis. The folder 'AllData_Directory' contains all of the data that was available to choose from for this final project. The below bullet points go through the contents of the 'Data' folder. 'AllData_Directory' is more for exploration.**
+
 1. ACS_Data
     + AgeACS.csv: Census Bureau ACSST5Y2019.s101
         + Age and gender data from the American Community Survey (ACS) 2019 estimates
